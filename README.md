@@ -6,7 +6,7 @@
 + This dataset consists of 14 features with about 303 rows.
 
 + Following are the features of the dataset:
-
++
 + `age`
 + `sex`
 + `cp`
@@ -22,7 +22,7 @@
 + `thal`
 + `target'
 +
-+ - Libraries used:
++ Libraries used:
 + Pandas, Numpy, Matplotlib, Seaborn, Sklearn
 
 
