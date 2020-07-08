@@ -22,8 +22,8 @@
 + `thal`
 + `target'
 
-+ Libraries used:
++ -Libraries used:
 + ```python
-+ Pandas, Numpy, Matplotlib, Seaborn, Cufflinks, Sklearn
++ Pandas, Numpy, Matplotlib, Seaborn, Sklearn
 + ```
 
