@@ -5,24 +5,17 @@
 
 + This dataset consists of 14 features with about 303 rows.
 
-+ Following are the features of the dataset:
-+
-+ `age`
-+ `sex`
-+ `cp`
-+ `trestbps`
-+ `chol`
-+ `fbs`
-+ `restecg`
-+ `thalach`
-+ `exang`
-+ `oldpeak`
-+ `slope`
-+ `ca`
-+ `thal`
-+ `target'
-+
-+ Libraries used:
-+ Pandas, Numpy, Matplotlib, Seaborn, Sklearn
+
+## Requirements
+- Pandas
+- Matplotlib
+- Seaborn
+- Numpy
+
+
+
+
+
+
 
 
