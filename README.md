@@ -12,7 +12,8 @@
 - Seaborn
 - Numpy
 
-
+## Medium Blog Post
+- Here is the Medium blog post I have written: https://medium.com/@puchalapalli.gowthami/heart-attack-prediction-1ec378f1c29d
 
 
 
